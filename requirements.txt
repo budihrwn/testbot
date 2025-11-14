@@ -1,0 +1,9 @@
+streamlit
+openai
+pinecone-client
+langchain
+langchain-openai
+langchain-pinecone
+langchain-community
+pypdf
+tiktoken
